@@ -2,7 +2,7 @@
 ### I'm Shiyan
 
 <p align="center">
-  Personal Website <a href="https://shiyanboxer.netlify.app/" target="_blank">shiyanboxer.netlify.app/</a>.
+  [Personal Website](https://shiyanboxer.netlify.app/)
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/shiyanboxer2/deploys" target="_blank">

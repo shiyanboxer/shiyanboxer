@@ -1,7 +1,8 @@
+<p align="center">
 ### Hi there 👋, 
 ### I'm Shiyan
 
-<p align="center">
+
   This is my personal website <a href="https://shiyanboxer.netlify.app/" target="_blank">shiyanboxer.netlify.app/</a>.
 </p>
 <p align="center">

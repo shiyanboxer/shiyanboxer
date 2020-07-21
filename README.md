@@ -1,4 +1,4 @@
-![Shiyan Boxer](https://github.com/shiyanboxer/shiyanboxer/blob/master/SHIYAN%20BOXER.png)
+![Shiyan Boxer](https://github.com/shiyanboxer/shiyanboxer/blob/master/heading.jpg)
 
 ![GIF](https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif)
 <img src="https://media.giphy.com/media/Cgf0AymdEvEVG/giphy.gif" width=500 hieght=300/>

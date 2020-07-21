@@ -17,7 +17,7 @@ Hey, I’m Shiyan! I'm currently pursuing my 3rd year of Computer Engineering in
 - JavaScript ES6
 
 ### A couple of feature projects I've built 👩🏻‍💻
-**Finding Founders React Native App**
+**[Finding Founders React Native App](https://github.com/shiyanboxer/Finding-Founders-React-Native-Social-Media-App)**
 - Social media app for connecting founders with founders with chat, news feed, login, and profile features.
 - React Native, JavaScript, Expo, Firebase, Redux, Streaming API, Chat API
 

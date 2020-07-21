@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shiyan
 
 ![GIF](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/U5CSLNo3oylqd0hP68/giphy.gif"/>
 
 ### Find me on the web 🌎
 - [Personal Website](https://shiyanboxer.netlify.app/)

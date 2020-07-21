@@ -16,11 +16,11 @@ Hey, I’m Shiyan! I'm currently pursuing my 3rd year of Computer Engineering in
 - Java
 - JavaScript ES6
 
-## A couple of feature projects I've built
+## A couple of feature projects I've built 👩🏻‍💻
 **Finding Founders React Native App**
 - Social media app for connecting founders with founders with chat, news feed, login, and profile features.
-- **Tech:** React Native, JavaScript, Expo, Firebase, Redux, Streaming API, Chat API
+- React Native, JavaScript, Expo, Firebase, Redux, Streaming API, Chat API
 
 **Startup Success Predictor API**
 - Leverage data science and business principles to identify common characteristics of successful startups to make more informed investment decisions for FRV.
-- **Tech:** Python Flask, Heroku, Pandas, NumPy, Sklearn, Kaggle, Seaborn, Selenium, JSON, Pickle, Matplotlib
+- Python Flask, Heroku, Pandas, NumPy, Sklearn, Kaggle, Seaborn, Selenium, JSON, Pickle, Matplotlib

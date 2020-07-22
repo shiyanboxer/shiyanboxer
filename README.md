@@ -1,6 +1,6 @@
 ![Shiyan Boxer](https://github.com/shiyanboxer/shiyanboxer/blob/master/heading.jpg)
 
-### Hey, I’m Shiyan! I'm currently pursuing my 3rd year of Computer Engineering in the Innovation Stream and Certificate in Business at Queen's University. I’m fascinated by artificial intelligence, environmental sustainability, art, and entrepreneurship. I enjoy creating websites, applications, and everything in between. 
+### Hey, I’m Shiyan! I'm currently pursuing my 3rd year of [Computer Engineering in the Innovation Stream](https://www.ece.queensu.ca/undergraduate/ECEi.html) and [Certificate in Business](https://smith.queensu.ca/academic_programs/certificate-in-business/index.php) at [Queen's University](https://www.queensu.ca/). I’m fascinated by artificial intelligence, environmental sustainability, art, and entrepreneurship. I enjoy creating websites, applications, and everything in between. 
 
 ### I'm currently working at the [Front Row Ventures](https://frontrow.ventures/) as a Data & Investment Associate and at [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) as a Software Engineer. 
 

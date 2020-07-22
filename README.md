@@ -3,11 +3,11 @@
 ### Hey, I’m Shiyan! I'm currently pursuing my 3rd year of Computer Engineering in the Innovation Stream and Certificate in Business at Queen's University. I’m fascinated by artificial intelligence, environmental sustainability, art, and entrepreneurship. I enjoy creating websites, applications, and everything in between. <p/>
 
 ## Find me on the web 🌎
-- [Personal Website](https://shiyanboxer.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/shiyanboxer/)
-- [Twitter](https://twitter.com/shiyan_boxer)
-- [Instagram](https://www.instagram.com/shiyan.boxer/)
-- [Spotify](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)
+- **[Personal Website](https://shiyanboxer.netlify.app/)**
+- **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
+- **[Twitter](https://twitter.com/shiyan_boxer)**
+- **[Instagram](https://www.instagram.com/shiyan.boxer/)**
+- **[Spotify](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)**
 
 
 ## Some technologies I've been working with recently 🤖

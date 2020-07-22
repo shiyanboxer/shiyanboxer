@@ -45,3 +45,6 @@
 - Artificial Intelligence
 - Smart Grids
 - Entrepreneurship
+
+![dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+

@@ -14,10 +14,12 @@
 - **[Spotify](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)**
 
 ## Some technologies I've been working with recently 🤖
-- Python 3
-- React & React Native
-- Java
-- JavaScript ES6
+- **Python 3**
+- **Java**
+- **React**
+- **React Native**
+- **JavaScript ES6**
+- **Figma**
 
 ## A couple of feature projects I've built 👩🏻‍💻
 ### [Finding Founders React Native App](https://github.com/shiyanboxer/Finding-Founders-React-Native-Social-Media-App)

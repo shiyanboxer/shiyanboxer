@@ -6,7 +6,7 @@
 - **[Personal Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
 - **[Studio 50-50](https://studio50-50.com/)**
-- **[Medium](https://medium.com/@shiyan.boxer)
+- **[Medium](https://medium.com/@shiyan.boxer)**
 - **[Twitter](https://twitter.com/shiyan_boxer)**
 - **[Behance](https://www.behance.net/shiyanboxer)**
 - **[Instagram](https://www.instagram.com/shiyan.boxer/)**

@@ -22,7 +22,7 @@
 - React Native, JavaScript, Expo, Firebase, Redux, Streaming API, Chat API
 
 **[Startup Success Predictor API](https://github.com/shiyanboxer/Startup-Success-Predictor-API)**
-- Leverage data science and business principles to identify common characteristics of successful startups to make more informed investment decisions for FRV.
+- Leverage data science, machine learning, and business principles to identify common characteristics of successful startups to make more informed investment decisions for FRV.
 - Python Flask, Heroku, Pandas, NumPy, Sklearn, Kaggle, Seaborn, Selenium, JSON, Pickle, Matplotlib
 
 **[CRA Twitter Sentiment Analysis](https://github.com/shiyanboxer/CRA-Twitter-Sentiment-Analysis)**

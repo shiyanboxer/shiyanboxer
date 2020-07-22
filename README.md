@@ -39,8 +39,9 @@
 - Model to determine the sentiment towards CRA's CERB and CESB using Twitter's RESTful API, Python, NLTK, Regular Expression, Matplotlib, and NumPy. The model is based on Naive Bayes Classifier theorem and outputs a graph of positive, negative, and neutral tweets.
 - Python, REST API, NLTK, NumPy, RegEx, Matplotlib
 
-## A few interests and hobbies
+## A few interests and hobbies 📷
 - [Photography](https://vsco.co/shiyanboxer/gallery)
+- [Music](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)
 - Artificial Intelligence
 - Smart Grids
 - Art

@@ -5,10 +5,13 @@
 ## Find me on the web 🌎
 - **[Personal Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
+- **[Studio 50-50](https://studio50-50.com/)**
+- **[Medium](https://medium.com/@shiyan.boxer)
 - **[Twitter](https://twitter.com/shiyan_boxer)**
+- **[Behance](https://www.behance.net/shiyanboxer)**
 - **[Instagram](https://www.instagram.com/shiyan.boxer/)**
+- **[VSCO](https://vsco.co/shiyanboxer/gallery)**
 - **[Spotify](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)**
-
 
 ## Some technologies I've been working with recently 🤖
 - Python 3

@@ -1,8 +1,6 @@
 ![Shiyan Boxer](https://github.com/shiyanboxer/shiyanboxer/blob/master/heading.jpg)
 
-### Hey, I’m Shiyan! 
-
-### I'm pursuing my 3rd year of [Computer Engineering in the Innovation Stream](https://www.ece.queensu.ca/undergraduate/ECEi.html) and [Certificate in Business](https://smith.queensu.ca/academic_programs/certificate-in-business/index.php) at [Queen's University](https://www.queensu.ca/). 
+### Hey, I’m Shiyan! I'm pursuing my 3rd year of [Computer Engineering in the Innovation Stream](https://www.ece.queensu.ca/undergraduate/ECEi.html) and [Certificate in Business](https://smith.queensu.ca/academic_programs/certificate-in-business/index.php) at [Queen's University](https://www.queensu.ca/). 
 
 ## Find me on the web 🌎
 - **[Personal Website](https://shiyanboxer.netlify.app/)**
@@ -18,7 +16,7 @@
 ## Where I'm currently working 💼
 - **Data & Investment Associate @ [Front Row Ventures](https://frontrow.ventures/)**
 - **Software Engineer @ [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html)**
-- **Founder & Web Developer** @ [Studio 50-50](https://studio50-50.com/)**
+- **Founder & Web Developer @ [Studio 50-50](https://studio50-50.com/)**
 
 ## Some technologies I've been working with recently 🤖
 - **Python 3**

@@ -1,11 +1,8 @@
 ![Shiyan Boxer](https://github.com/shiyanboxer/shiyanboxer/blob/master/heading.jpg)
 
-<p 
-style="color: #5e9ca0;" 
-style="text-align:center;
-size=20;
->
-Hey, I’m Shiyan! I'm currently pursuing my 3rd year of Computer Engineering in the Innovation Stream and Certificate in Business at Queen's University. I’m fascinated by artificial intelligence, environmental sustainability, art, and entrepreneurship. I enjoy creating websites, applications, and everything in between. <p/>
+<h1 style="text-align:center;font-family: 'Josefin Sans', sans-serif;">
+  Hey, I’m Shiyan! I'm currently pursuing my 3rd year of Computer Engineering in the Innovation Stream and Certificate in Business at Queen's University. I’m fascinated by artificial intelligence, environmental sustainability, art, and entrepreneurship. I enjoy creating websites, applications, and everything in between. <p/>
+</h1>
 
 ### Find me on the web 🌎
 - [Personal Website](https://shiyanboxer.netlify.app/)

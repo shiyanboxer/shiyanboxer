@@ -44,5 +44,4 @@
 - [Music](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)
 - Artificial Intelligence
 - Smart Grids
-- Art
 - Entrepreneurship

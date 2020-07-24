@@ -2,8 +2,6 @@
 
 ### Hey, I’m Shiyan! I'm pursuing my 3rd year of [Computer Engineering in the Innovation Stream](https://www.ece.queensu.ca/undergraduate/ECEi.html) and [Certificate in Business](https://smith.queensu.ca/academic_programs/certificate-in-business/index.php) at [Queen's University](https://www.queensu.ca/). 
 
-<a href="https://www.buymeacoffee.com/shiyanboxer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ## Find me on the web 🌎
 - **[Personal Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
@@ -47,6 +45,8 @@
 - Artificial Intelligence
 - Smart Grids
 - Entrepreneurship
+
+<a href="https://www.buymeacoffee.com/shiyanboxer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 

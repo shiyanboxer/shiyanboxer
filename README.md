@@ -44,7 +44,7 @@
 - [Music](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)
 - Artificial Intelligence
 - Smart Grid
-- Entrepreneurship
+- Venture capital
 
 ## How to support me ☕
 <a href="https://www.buymeacoffee.com/shiyanboxer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

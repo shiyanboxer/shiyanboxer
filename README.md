@@ -43,7 +43,7 @@
 - [Photography](https://vsco.co/shiyanboxer/gallery)
 - [Music](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)
 - Artificial Intelligence
-- Smart Grids
+- Smart Grid
 - Entrepreneurship
 
 ## How to support me ☕

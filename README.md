@@ -1,6 +1,6 @@
 ![Shiyan Boxer](https://github.com/shiyanboxer/shiyanboxer/blob/master/heading.jpg)
 
-### Hey, I’m Shiyan! I'm pursuing my 3rd year of [Computer Engineering in the Innovation Stream](https://www.ece.queensu.ca/undergraduate/ECEi.html) and [Certificate in Business](https://smith.queensu.ca/academic_programs/certificate-in-business/index.php) at [Queen's University](https://www.queensu.ca/). 
+### Hey, I’m [Shiyan](https://shiyanboxer.netlify.app/)! I'm pursuing my 3rd year of [Computer Engineering in the Innovation Stream](https://www.ece.queensu.ca/undergraduate/ECEi.html) and [Certificate in Business](https://smith.queensu.ca/academic_programs/certificate-in-business/index.php) at [Queen's University](https://www.queensu.ca/). 
 
 ## Find me on the web 🌎
 - **[Personal Website](https://shiyanboxer.netlify.app/)**

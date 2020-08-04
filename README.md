@@ -22,7 +22,7 @@
 - **Python 3**
 - **Java**
 - **React**
-- **React Native**
+- **React Native** 
 - **JavaScript ES6**
 - **Figma**
 

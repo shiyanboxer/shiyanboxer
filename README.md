@@ -3,12 +3,6 @@
 ### Hey, I’m Shiyan! I'm pursuing my 3rd year of [Computer Engineering in the Innovation Stream](https://www.ece.queensu.ca/undergraduate/ECEi.html) and [Certificate in Business](https://smith.queensu.ca/academic_programs/certificate-in-business/index.php) at [Queen's University](https://www.queensu.ca/). 
 
 ## Find me on the web 🌎
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 - **[Personal Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
 - **[Studio 50-50](https://studio50-50.com/)**

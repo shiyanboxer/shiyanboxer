@@ -50,6 +50,3 @@
 <a href="https://www.buymeacoffee.com/shiyanboxer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-

@@ -12,7 +12,6 @@
 - **[Behance](https://www.behance.net/shiyanboxer)**
 - **[Instagram](https://www.instagram.com/shiyan.boxer/)**
 - **[VSCO](https://vsco.co/shiyanboxer/gallery)**
-- **[Spotify](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)**
 
 ## Where I'm currently working 💼
 - **Software Engineer @ [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html)**

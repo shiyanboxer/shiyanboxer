@@ -40,11 +40,11 @@
 - Python, REST API, NLTK, NumPy, RegEx, Matplotlib
 
 ## A few interests and hobbies 📷
-- [Photography](https://vsco.co/shiyanboxer/gallery)
-- [Music](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)
-- [Artificial Intelligence](http://qmind.ca/wp-content/uploads/2020/05/Proceedings-of-CUCAI-2020.pdf#page=38)
-- [Smart Grid]()
-- [Venture Capital](https://frontrow.ventures/team/)
+- **[Photography](https://vsco.co/shiyanboxer/gallery)**
+- **[Music](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)**
+- **[Artificial Intelligence](http://qmind.ca/wp-content/uploads/2020/05/Proceedings-of-CUCAI-2020.pdf#page=38)**
+- **[Smart Grid]()**
+- **[Venture Capital](https://frontrow.ventures/team/)**
 
 ## How to support me ☕
 <a href="https://www.buymeacoffee.com/shiyanboxer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

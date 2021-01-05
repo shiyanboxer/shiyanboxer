@@ -22,9 +22,13 @@
 - **Python 3**
 - **Java**
 - **React**
-- **React Native** 
 - **JavaScript ES6**
-- **Figma**
+- **React JS**
+- **C**
+- **C++**
+- **MongoDB**
+- **Flask**
+- **MySQL**
 
 ## A couple of feature projects I've built 👩🏻‍💻
 ### [Finding Founders React Native App](https://github.com/shiyanboxer/Finding-Founders-React-Native-Social-Media-App)
@@ -34,10 +38,6 @@
 ### [Startup Success Predictor API](https://github.com/shiyanboxer/Startup-Success-Predictor-API)
 - Leverage data science, machine learning, and business principles to identify common characteristics of successful startups to make more informed investment decisions for FRV.
 - Python, ReactJS, Flask, Heroku, Pandas, NumPy, Sklearn, Kaggle, JSON, Pickle, Matplotlib
-
-### [CRA Twitter Sentiment Analysis](https://github.com/shiyanboxer/CRA-Twitter-Sentiment-Analysis)
-- Model to determine the sentiment towards CRA's CERB and CESB using Twitter's RESTful API, Python, NLTK, Regular Expression, Matplotlib, and NumPy. The model is based on Naive Bayes Classifier theorem and outputs a graph of positive, negative, and neutral tweets.
-- Python, REST API, NLTK, NumPy, RegEx, Matplotlib
 
 ## A few interests and hobbies 📷
 - **[Photography](https://vsco.co/shiyanboxer/gallery)**

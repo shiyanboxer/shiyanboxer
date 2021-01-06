@@ -35,7 +35,7 @@
 - Social media app for connecting founders with founders with chat, news feed, login, and profile features.
 - React Native, JavaScript, Expo, Firebase, Redux, Streaming API, Chat API
 
-### [Startup Success Predictor API](https://github.com/shiyanboxer/Startup-Success-Predictor-API)
+### [Startup Success Predictor API](https://github.com/shiyanboxer/Startup-Success-Predictor-v2)
 - Leverage data science, machine learning, and business principles to identify common characteristics of successful startups to make more informed investment decisions for FRV.
 - Python, ReactJS, Flask, Heroku, Pandas, NumPy, Sklearn, Kaggle, JSON, Pickle, Matplotlib
 

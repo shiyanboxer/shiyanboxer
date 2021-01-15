@@ -41,7 +41,7 @@
 
 ## A few interests and hobbies 📷
 - **[Photography](https://vsco.co/shiyanboxer/gallery)**
-- **[Music](https://open.spotify.com/user/shiyanboxer?si=sO5Ie0B5T4qNGMyngonkEg)**
+- **[Music](https://open.spotify.com/artist/3ohwIaxGwWo85wwkR97SfN?si=dOb0S3SBRkGRTtmr2ReWaw)**
 - **[Artificial Intelligence](http://qmind.ca/wp-content/uploads/2020/05/Proceedings-of-CUCAI-2020.pdf#page=38)**
 - **[Smart Grid]()**
 - **[Venture Capital](https://frontrow.ventures/team/)**

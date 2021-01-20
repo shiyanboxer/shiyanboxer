@@ -21,14 +21,9 @@
 ## Some technologies I've been working with recently 🤖
 - **Python 3**
 - **Java**
-- **React**
 - **JavaScript ES6**
 - **React JS**
 - **C**
 - **C++**
 - **MongoDB**
 - **Flask**
-- **MySQL**
-
-## How to support me ☕
-<a href="https://www.buymeacoffee.com/shiyanboxer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

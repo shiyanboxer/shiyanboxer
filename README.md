@@ -23,7 +23,6 @@
 - **Java**
 - **JavaScript ES6**
 - **React JS**
-- **C**
-- **C++**
+- **C / C++**
 - **MongoDB**
 - **Flask**

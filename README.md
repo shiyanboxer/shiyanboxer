@@ -8,7 +8,7 @@
 - **[Music](https://linktr.ee/shiyanboxer)**
 - **[Studio 50-50](https://studio50-50.com/)**
 - **[Twitter](https://twitter.com/shiyan_boxer)**
+- **[Instagram](https://www.instagram.com/shiyan.boxer/)**
 - **[Medium](https://medium.com/@shiyan.boxer)**
 - **[Behance](https://www.behance.net/shiyanboxer)**
-- **[Instagram](https://www.instagram.com/shiyan.boxer/)**
 - **[VSCO](https://vsco.co/shiyanboxer/gallery)**

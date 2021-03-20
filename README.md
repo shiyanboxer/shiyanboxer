@@ -12,3 +12,4 @@
 - **[Medium](https://medium.com/@shiyan.boxer)**
 - **[Behance](https://www.behance.net/shiyanboxer)**
 - **[VSCO](https://vsco.co/shiyanboxer/gallery)**
+- **[YouTube](https://www.youtube.com/channel/UCBsOOAx8ZtIfa8qYddj0pFQ)**

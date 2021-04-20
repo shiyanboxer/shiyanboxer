@@ -11,6 +11,7 @@
 - **[Kit](https://kit.co/shiyan)**
 - **[Studio 50-50](https://studio50-50.com/)**
 - **[Medium](https://medium.com/@shiyan.boxer)**
+- **[Substack](https://shiyan.substack.com/)**
 - **[Twitter](https://twitter.com/shiyan_boxer)**
 - **[Instagram](https://www.instagram.com/shiyan.boxer/)**
 - **[Behance](https://www.behance.net/shiyanboxer)**

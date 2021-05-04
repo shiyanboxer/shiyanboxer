@@ -5,7 +5,6 @@
 ## Find me on the web 🌎
 - **[Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
-- **[YouTube](https://www.youtube.com/channel/UCBsOOAx8ZtIfa8qYddj0pFQ)**
 - **[Music](https://linktr.ee/shiyanboxer)**
 - **[Prints](https://shiyan.darkroom.tech/)**
 - **[Kit](https://kit.co/shiyan)**
@@ -16,3 +15,4 @@
 - **[Instagram](https://www.instagram.com/shiyan.boxer/)**
 - **[Behance](https://www.behance.net/shiyanboxer)**
 - **[VSCO](https://vsco.co/shiyanboxer/gallery)**
+- **[YouTube](https://www.youtube.com/channel/UCBsOOAx8ZtIfa8qYddj0pFQ)**

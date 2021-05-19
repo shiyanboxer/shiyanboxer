@@ -13,4 +13,4 @@
 - **[VSCO](https://vsco.co/shiyanboxer/gallery)**
 - **[Music](https://linktr.ee/shiyanboxer)**
 - **[Prints](https://shiyan.darkroom.tech/)**
-- **[Studio 50-50](https://studio50-50.com/)**
+- **[Studio 50-50](https://www.instagram.com/studio.5050/)**

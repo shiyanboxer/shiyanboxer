@@ -5,7 +5,7 @@
 ## Find me on the web 🌎
 - **[Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
-- **[Medium](https://medium.com/@shiyan.boxer)**
+- **[Medium](https://medium.com/@shiyan-boxer)**
 - **[Substack](https://shiyan.substack.com/)**
 - **[Twitter](https://twitter.com/shiyan_boxer)**
 - **[Instagram](https://www.instagram.com/shiyan.boxer/)**

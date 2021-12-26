@@ -5,7 +5,7 @@
 ## Find me on the web 🌎
 - **[Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
-- **[Photography](https://shiyanboxerphotos.com/)**
+- **[Photography](https://www.instagram.com/shiyanboxer.photos/)**
 - **[Studio 50-50](https://www.instagram.com/studio.5050/)**
 - **[Music](https://linktr.ee/shiyanboxer)**
 - **[Instagram](https://www.instagram.com/shiyan.boxer/)**

@@ -6,4 +6,3 @@
 - **[Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
 - **[Photography](https://www.instagram.com/shiyanboxer.photos/)**
-- **[Instagram](https://www.instagram.com/shiyan.boxer/)**

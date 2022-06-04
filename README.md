@@ -5,4 +5,3 @@
 ## Find me on the web 🌎
 - **[Website](https://shiyanboxer.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/shiyanboxer/)**
-- **[Photography](https://www.instagram.com/shiyanboxer.photos/)**
